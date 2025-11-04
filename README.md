@@ -1,1 +1,1 @@
-All logical functinality which is usefull for more project at many time
+All the commonly used logical functionalities that are useful in multiple projects.”
